@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wuleying&title=MultipleLang,Star,Follower,Commit,Issue">
+  <img src="https://github-profile-trophy.vercel.app/?username=wuleying&theme=chalk">
 </p>
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=wuleying&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
