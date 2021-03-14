@@ -9,8 +9,6 @@
 
 > 程序员 
 
-> C/Objective-C/PHP/Python/Perl/Golang/Java/JavaScript/ActionScript/VBScript/Shell
-
 > 互联网广告神棍
 
 > 金融界老韭菜
