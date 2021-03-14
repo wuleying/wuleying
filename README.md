@@ -9,7 +9,7 @@
 
 > 程序员 
 
-> 略懂：C/Objective-C/PHP/Python/Perl/Golang/Java/JavaScript/ActionScript/VBScript/Shell
+> C/Objective-C/PHP/Python/Perl/Golang/Java/JavaScript/ActionScript/VBScript/Shell
 
 > 互联网广告神棍
 
