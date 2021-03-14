@@ -17,5 +17,5 @@
 
 > 《iOS软件开发兵法:应用程序与游戏开发之道》作者
 
-- 🏠 个人博客：[zdyi.com](http://zdyi.com)
+- 博客：[zdyi.com](http://zdyi.com)
 - 微博：[罗亮亮](https://weibo.com/208366565)
