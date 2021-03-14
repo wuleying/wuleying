@@ -7,7 +7,7 @@
 
 ### Hello, I'm 罗亮 👋
 
-> 程序员
+> 程序员 (略懂：C/Objective-C/PHP/Golang/JAVA/JavaSript/Python/Perl/ActionScript/Shell)
 
 > 互联网广告神棍
 
