@@ -124,5 +124,3 @@ export GOSUMDB="sum.golang.google.cn"
 # gvm
 source /Users/luoliang/.gvm/scripts/gvm
 test -f ~/.bash_profile  && source ~/.bash_profile
-
-source /Users/luoliang/.config/broot/launcher/bash/br
