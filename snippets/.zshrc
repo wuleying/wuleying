@@ -119,7 +119,6 @@ eval $(thefuck --alias)
 # go env
 export GOENV="/Users/luoliang/Library/Application Support/go/env"
 export GOPROXY=https://goproxy.cn,direct
-export GOPRIVATE=git.intra.weibo.com
 export GOSUMDB="sum.golang.google.cn"
 
 # gvm
