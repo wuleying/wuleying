@@ -5,15 +5,22 @@ autocmd BufWritePost $MYVIMRC source $MYVIMRC
 " 关闭兼容模式
 set nocompatible
 
-set nu " 设置行号
-set cursorline "突出显示当前行
-" set cursorcolumn " 突出显示当前列
-set showmatch " 显示括号匹配
+" 设置行号
+set nu
+" 突出显示当前行
+set cursorline
+" 突出显示当前列
+" set cursorcolumn
+" 显示括号匹配
+set showmatch
 
 " tab 缩进
-set tabstop=4 " 设置Tab长度为4空格
-set shiftwidth=4 " 设置自动缩进长度为4空格
-set autoindent " 继承前一行的缩进方式，适用于多行注释
+" 设置Tab长度为4空格
+set tabstop=4
+" 设置自动缩进长度为4空格
+set shiftwidth=4
+" 继承前一行的缩进方式，适用于多行注释
+set autoindent
 
 " 定义快捷键的前缀，即<Leader>
 let mapleader=";" 
@@ -31,8 +38,10 @@ set incsearch
 " 搜索时大小写不敏感
 set ignorecase
 syntax enable
-syntax on                    " 开启文件类型侦测
-filetype plugin indent on    " 启用自动补全
+" 开启文件类型侦测
+syntax on
+" 启用自动补全
+filetype plugin indent on
 
 " 退出插入模式指定类型的文件自动保存
 au InsertLeave *.go,*.sh,*.php write
@@ -71,10 +80,10 @@ Plug 'ianva/vim-youdao-translater'
 Plug 'airblade/vim-gitgutter'
 
 " 可以在 vim 中使用 tab 补全
-"Plug 'vim-scripts/SuperTab'
+" Plug 'vim-scripts/SuperTab'
 
 " 可以在 vim 中自动完成
-"Plug 'Shougo/neocomplete.vim'
+" Plug 'Shougo/neocomplete.vim'
 
 " 配色方案
 " colorscheme neodark
