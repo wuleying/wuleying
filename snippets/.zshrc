@@ -100,7 +100,7 @@ alias ls='exa --long'
 
 # JAVA
 export JAVA_HOME=`/usr/libexec/java_home`
-# JAVA END
+# JAVA end
 
 # PHP
 export PATH="/usr/local/Cellar/php@5.6/5.6.36/bin:/usr/local/Cellar/php@5.6/5.6.36/sbin:$PATH"
