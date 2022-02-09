@@ -84,9 +84,11 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # alias
+alias ls='exa --long'
 alias ll='ls -l'
 alias la='ls -al'
 alias vi='vim'
+alias cat=bat
 alias please='sudo'
 alias grep="grep --color=auto"
 alias showip="ifconfig en0 | grep 'inet ' | awk '{print \$2}'"
@@ -94,8 +96,6 @@ alias gogo='cd /Users/luoliang/projects/go/src/github.com/wuleying'
 alias pypy='cd /Users/luoliang/projects/python'
 alias phph='cd /Users/luoliang/projects/php'
 alias br='broot -sdph'
-alias cat=bat
-alias ls='exa --long'
 # alias end
 
 # JAVA
